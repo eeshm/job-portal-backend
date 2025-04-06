@@ -1,0 +1,29 @@
+# Node dependencies
+node_modules/
+
+# Output directory for compiled JavaScript
+dist/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.*.local
+
+# Editor-specific folders
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: test coverage reports
+coverage/
